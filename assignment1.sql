@@ -95,3 +95,5 @@ VALUES
 ('i10', 8, 'a06', '1993-09-03', '1993-09-06');
 
 SELECT * FROM invoice;
+
+DELETE FROM invoice;

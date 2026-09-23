@@ -48,6 +48,6 @@ UPDATE invoice SET return_date='1993-08-16' WHERE inv_no='i08';
 SELECT * FROM invoice WHERE inv_no='i08';
 
 
--- Question 13
+-- Question 12
 UPDATE cust SET area='vs' WHERE cust_id='a05';
 SELECT * FROM cust WHERE cust_id='a05';
